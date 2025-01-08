@@ -12,7 +12,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "CSSoft\\Clarityconnector\\": ""
+            "CSSoft\\Clarityconnector\\": "src/"
         }
     },
     "repositories": [
