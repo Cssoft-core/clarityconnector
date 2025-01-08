@@ -14,5 +14,11 @@
         "psr-4": {
             "CSSoft\\Clarityconnector\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Cssoft-core/clarityconnector"
+        }
+    ]
 }
