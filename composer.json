@@ -1,5 +1,5 @@
 {
-    "name": "cssoft/module-clarityconnector",
+    "name": "cssoft/clarityconnector",
     "description": "CSSoft Magento2 Microsoft Clarity Connect Module",
     "type": "magento2-module",
     "version": "1.0.0",
@@ -8,11 +8,17 @@
         "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0|~8.1|~8.2|~8.3"
     },
     "autoload": {
-        "files": [ 
+        "files": [
             "registration.php"
         ],
         "psr-4": {
             "CSSoft\\Clarityconnector\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Cssoft-core/clarityconnector"
+        }
+    ]
 }
