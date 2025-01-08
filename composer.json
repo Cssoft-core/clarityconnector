@@ -1,5 +1,5 @@
 {
-    "name": "cssoft/module-clarityconnector",
+    "name": "cssoft/clarityconnector",
     "description": "CSSoft Magento2 Microsoft Clarity Connect Module",
     "type": "magento2-module",
     "version": "1.0.0",  
